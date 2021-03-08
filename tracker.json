@@ -1,0 +1,9 @@
+{
+  "lovelace-nonow-age.bundle": {
+    "updated_at": "2020-04-13",
+    "version": "0.0.1",
+    "remote_location": "https://raw.githubusercontent.com/brunosabot/lovelace-nonow-age/master/lovelace-nonow-age.js",
+    "visit_repo": "https://github.com/brunosabot/lovelace-nonow-age",
+    "changelog": "https://github.com/brunosabot/lovelace-nonow-age/releases/latest"
+  }
+}
